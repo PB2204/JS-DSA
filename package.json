@@ -1,0 +1,24 @@
+{
+    "name": "adv-dsa",
+    "version": "1.0.0",
+    "description": "JavaScript Data Structures and Algorithms Library",
+    "keywords": [
+        "data-structures",
+        "algorithms",
+        "javascript",
+        "npm-package"
+    ],
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PB2204/js-dsa.git"
+    },
+    "author": "Pabitra Banerjee",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^28.1.3"
+    }
+}

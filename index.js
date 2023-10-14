@@ -16,9 +16,13 @@ const GraphNode = require('./data-structures/graphs/GraphNode');
 const DisjointSet = require('./data-structures/disjoint-set/DisjointSet');
 const Trie = require('./data-structures/trie/Trie');
 const BubbleSort = require('./algorithms/sorting/bubbleSort');
-const insertionSort = require('./algorithms/sorting/insertionSort');
-const mergeSort = require('./algorithms/sorting/mergeSort');
-const selectionSort = require('./algorithms/sorting/selectionSort');
+const InsertionSort = require('./algorithms/sorting/insertionSort');
+const MergeSort = require('./algorithms/sorting/mergeSort');
+const SelectionSort = require('./algorithms/sorting/selectionSort');
+const QuickSort = require('./algorithms/sorting/quickSort');
+const CountingSort = require('./algorithms/sorting/countingSort');
+const RadixSort = require('./algorithms/sorting/radixSort');
+const HeapSort = require('./algorithms/sorting/heapSort');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -41,8 +45,12 @@ module.exports = {
     DisjointSet,
     Trie,
     BubbleSort,
-    insertionSort,
-    mergeSort,
-    selectionSort,
+    InsertionSort,
+    MergeSort,
+    SelectionSort,
+    QuickSort,
+    CountingSort,
+    RadixSort,
+    HeapSort,
     // Export other data structures and algorithms as well
 };

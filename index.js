@@ -31,6 +31,7 @@ const BreadthFirstSearch = require('./algorithms/searching/breadthFirstSearch');
 const GraphNode = require('./algorithms/searching/breadthFirstSearch');
 const Dijkstra = require('./algorithms/graph-algorithms/dijkstra');
 const BellmanFord = require('./algorithms/graph-algorithms/bellmanFord');
+const Kruskal = require('./algorithms/graph-algorithms/kruskal');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -68,5 +69,6 @@ module.exports = {
     GraphNode,
     Dijkstra,
     BellmanFord,
+    Kruskal,
     // Export other data structures and algorithms as well
 };

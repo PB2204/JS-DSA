@@ -13,6 +13,8 @@ const MinHeap = require('./data-structures/heaps/MinHeap');
 const MaxHeap = require('./data-structures/heaps/MaxHeap');
 const Graph = require('./data-structures/graphs/Graph');
 const GraphNode = require('./data-structures/graphs/GraphNode');
+const DisjointSet = require('./data-structures/disjoint-set/DisjointSet');
+const Trie = require('./data-structures/trie/Trie');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -32,5 +34,7 @@ module.exports = {
     MaxHeap,
     Graph,
     GraphNode,
+    DisjointSet,
+    Trie,
     // Export other data structures and algorithms as well
 };

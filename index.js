@@ -23,6 +23,7 @@ const QuickSort = require('./algorithms/sorting/quickSort');
 const CountingSort = require('./algorithms/sorting/countingSort');
 const RadixSort = require('./algorithms/sorting/radixSort');
 const HeapSort = require('./algorithms/sorting/heapSort');
+const LinearSearch = require('./algorithms/searching/linearSearch');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -52,5 +53,6 @@ module.exports = {
     CountingSort,
     RadixSort,
     HeapSort,
+    LinearSearch,
     // Export other data structures and algorithms as well
 };

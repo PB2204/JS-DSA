@@ -1,3 +1,4 @@
+```bash
 JS-DSA/
 |-- data-structures/
 |   |-- linked-lists/
@@ -184,3 +185,4 @@ JS-DSA/
     |-- data-structures.md
     |-- algorithms.md
     |-- usage-examples.md
+    ```

@@ -1,5 +1,5 @@
 const assert = require('assert');
-const AVLTree = require('../../data-structures/trees/AVLTree');
+const AVLTree = require('../../../data-structures/trees/AVLTree');
 
 describe('AVLTree', () => {
     it('should create an empty AVL tree', () => {

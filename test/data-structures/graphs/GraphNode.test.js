@@ -1,5 +1,5 @@
 const assert = require('assert');
-const GraphNode = require('../../data-structures/graphs/GraphNode');
+const GraphNode = require('../../../data-structures/graphs/GraphNode');
 
 describe('GraphNode', () => {
     it('should create a graph node with a value', () => {

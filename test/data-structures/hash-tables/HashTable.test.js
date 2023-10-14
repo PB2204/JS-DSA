@@ -1,5 +1,5 @@
 const assert = require('assert');
-const HashTable = require('../../data-structures/hash-tables/HashTable');
+const HashTable = require('../../../data-structures/hash-tables/HashTable');
 
 describe('HashTable', () => {
     it('should create an empty hash table with the default size', () => {

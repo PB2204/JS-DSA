@@ -1,5 +1,5 @@
 const assert = require('assert');
-const Set = require('../../data-structures/sets-and-maps/Set');
+const Set = require('../../../data-structures/sets-and-maps/Set');
 
 describe('Set', () => {
     it('should create an empty set', () => {

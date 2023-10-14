@@ -1,5 +1,5 @@
 const assert = require('assert');
-const Graph = require('../../data-structures/graphs/Graph');
+const Graph = require('../../../data-structures/graphs/Graph');
 
 describe('Graph', () => {
     it('should create an empty graph', () => {

@@ -1,5 +1,5 @@
 const assert = require('assert');
-const DisjointSet = require('../../data-structures/disjoint-set/DisjointSet');
+const DisjointSet = require('../../../data-structures/disjoint-set/DisjointSet');
 
 describe('DisjointSet', () => {
     it('should create a disjoint-set and make sets', () => {

@@ -1,5 +1,5 @@
 const assert = require('assert');
-const Queue = require('../../data-structures/stacks-and-queues/Queue');
+const Queue = require('../../../data-structures/stacks-and-queues/Queue');
 
 describe('Queue', () => {
     it('should create an empty queue', () => {

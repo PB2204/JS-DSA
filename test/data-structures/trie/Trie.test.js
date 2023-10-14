@@ -1,5 +1,5 @@
 const assert = require('assert');
-const Trie = require('../../data-structures/trie/Trie');
+const Trie = require('../../../data-structures/trie/Trie');
 
 describe('Trie', () => {
     it('should insert and search for words', () => {

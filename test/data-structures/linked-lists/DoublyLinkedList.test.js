@@ -1,5 +1,5 @@
 const assert = require('assert');
-const DoublyLinkedList = require('../../data-structures/linked-lists/DoublyLinkedList');
+const DoublyLinkedList = require('../../../data-structures/linked-lists/DoublyLinkedList');
 
 describe('Doubly Linked List', () => {
     it('should create an empty list', () => {

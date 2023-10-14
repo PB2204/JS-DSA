@@ -1,5 +1,5 @@
 const assert = require('assert');
-const MaxHeap = require('../../data-structures/heaps/MaxHeap');
+const MaxHeap = require('../../../data-structures/heaps/MaxHeap');
 
 describe('MaxHeap', () => {
     it('should create an empty MaxHeap', () => {

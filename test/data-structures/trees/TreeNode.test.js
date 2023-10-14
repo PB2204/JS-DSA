@@ -1,5 +1,5 @@
 const assert = require('assert');
-const TreeNode = require('../../data-structures/trees/TreeNode');
+const TreeNode = require('../../../data-structures/trees/TreeNode');
 
 describe('TreeNode', () => {
     it('should create a TreeNode with the given value', () => {

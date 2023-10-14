@@ -1,5 +1,5 @@
 const assert = require('assert');
-const BinaryTree = require('../../data-structures/trees/BinaryTree');
+const BinaryTree = require('../../../data-structures/trees/BinaryTree');
 
 describe('BinaryTree', () => {
     it('should create an empty binary tree', () => {

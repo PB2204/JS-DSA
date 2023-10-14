@@ -1,5 +1,5 @@
 const assert = require('assert');
-const CircularLinkedList = require('../../data-structures/linked-lists/CircularLinkedList');
+const CircularLinkedList = require('../../../data-structures/linked-lists/CircularLinkedList');
 
 describe('Circular Linked List', () => {
     it('should create an empty list', () => {

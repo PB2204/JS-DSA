@@ -1,5 +1,5 @@
 const assert = require('assert');
-const MinHeap = require('../../data-structures/heaps/MinHeap');
+const MinHeap = require('../../../data-structures/heaps/MinHeap');
 
 describe('MinHeap', () => {
     it('should create an empty MinHeap', () => {

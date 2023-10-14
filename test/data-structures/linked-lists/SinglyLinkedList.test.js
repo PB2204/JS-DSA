@@ -1,5 +1,5 @@
 const assert = require('assert');
-const SinglyLinkedList = require('../../data-structures/linked-lists/SinglyLinkedList');
+const SinglyLinkedList = require('../../../data-structures/linked-lists/SinglyLinkedList');
 
 describe('Singly Linked List', () => {
     it('should create an empty list', () => {

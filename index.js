@@ -27,6 +27,8 @@ const LinearSearch = require('./algorithms/searching/linearSearch');
 const BinarySearch = require('./algorithms/searching/binarySearch');
 const DepthFirstSearch = require('./algorithms/searching/depthFirstSearch');
 const GraphNode = require('./algorithms/searching/depthFirstSearch');
+const BreadthFirstSearch = require('./algorithms/searching/breadthFirstSearch');
+const GraphNode = require('./algorithms/searching/breadthFirstSearch');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -59,6 +61,8 @@ module.exports = {
     LinearSearch,
     BinarySearch,
     DepthFirstSearch,
+    GraphNode,
+    BreadthFirstSearch,
     GraphNode,
     // Export other data structures and algorithms as well
 };

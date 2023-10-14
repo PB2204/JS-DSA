@@ -11,6 +11,8 @@ const RedBlackTree = require('./data-structures/trees/RedBlackTree');
 const TreeNode = require('./data-structures/trees/TreeNode');
 const MinHeap = require('./data-structures/heaps/MinHeap');
 const MaxHeap = require('./data-structures/heaps/MaxHeap');
+const Graph = require('./data-structures/graphs/Graph');
+const GraphNode = require('./data-structures/graphs/GraphNode');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -28,5 +30,7 @@ module.exports = {
     TreeNode,
     MinHeap,
     MaxHeap,
+    Graph,
+    GraphNode,
     // Export other data structures and algorithms as well
 };

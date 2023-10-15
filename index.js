@@ -34,6 +34,7 @@ const BellmanFord = require('./algorithms/graph-algorithms/bellmanFord');
 const Kruskal = require('./algorithms/graph-algorithms/kruskal');
 const Prim = require('./algorithms/graph-algorithms/prim');
 const FloydWarshall = require('./algorithms/graph-algorithms/floydWarshall');
+const TopologicalSort = require('./algorithms/graph-algorithms/topologicalSort');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -74,5 +75,6 @@ module.exports = {
     Kruskal,
     Prim,
     FloydWarshall,
+    TopologicalSort,
     // Export other data structures and algorithms as well
 };

@@ -35,6 +35,7 @@ const Kruskal = require('./algorithms/graph-algorithms/kruskal');
 const Prim = require('./algorithms/graph-algorithms/prim');
 const FloydWarshall = require('./algorithms/graph-algorithms/floydWarshall');
 const TopologicalSort = require('./algorithms/graph-algorithms/topologicalSort');
+const Fibonacci = require('./algorithms/dynamic-programming/fibonacci');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -76,5 +77,6 @@ module.exports = {
     Prim,
     FloydWarshall,
     TopologicalSort,
+    Fibonacci,
     // Export other data structures and algorithms as well
 };

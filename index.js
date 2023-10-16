@@ -40,6 +40,9 @@ const LongestCommonSubsequence = require('./algorithms/dynamic-programming/longe
 const Knapsack = require('./algorithms/dynamic-programming/knapsack');
 const EditDistance = require('./algorithms/dynamic-programming/editDistance');
 const MatrixChainMultiplication = require('./algorithms/dynamic-programming/matrixChainMultiplication');
+const StringMatching = require('./algorithms/string/stringMatching');
+const LevenshteinDistance = require('./algorithms/string/levenshteinDistance');
+const LongestCommonSubstring = require('./algorithms/string/longestCommonSubstring');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -86,5 +89,8 @@ module.exports = {
     Knapsack,
     EditDistance,
     MatrixChainMultiplication,
+    StringMatching,
+    LevenshteinDistance,
+    LongestCommonSubstring,
     // Export other data structures and algorithms as well
 };

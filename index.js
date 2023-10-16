@@ -55,6 +55,8 @@ const KMeansClustering = require('./algorithms/ml-statistical/kMeansClustering')
 const LinearRegression = require('./algorithms/ml-statistical/linearRegression');
 const LogisticRegression = require('./algorithms/ml-statistical/logisticRegression');
 const DecisionTree = require('./algorithms/ml-statistical/decisionTrees');
+const RandomizedQuickSort = require('./algorithms/sorting/randomizedQuickSort');
+const RandomizedPrimalityTesting = require('./algorithms/randomized/randomizedPrimalityTesting');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -116,5 +118,7 @@ module.exports = {
     LinearRegression,
     LogisticRegression,
     DecisionTree,
+    RandomizedQuickSort,
+    RandomizedPrimalityTesting,
     // Export other data structures and algorithms as well
 };

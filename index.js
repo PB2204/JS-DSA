@@ -51,6 +51,10 @@ const MaxFlowMinCutGraph = require('./algorithms/network-flow/maxFlowMinCutTheor
 const GCD = require('./algorithms/numerical/gcd');
 const PrimalityTesting = require('./algorithms/numerical/primalityTesting');
 const FastExponentiation = require('./algorithms/numerical/fastExponentiation');
+const KMeansClustering = require('./algorithms/ml-statistical/kMeansClustering');
+const LinearRegression = require('./algorithms/ml-statistical/linearRegression');
+const LogisticRegression = require('./algorithms/ml-statistical/logisticRegression');
+const DecisionTree = require('./algorithms/ml-statistical/decisionTrees');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -108,5 +112,9 @@ module.exports = {
     GCD,
     PrimalityTesting,
     FastExponentiation,
+    KMeansClustering,
+    LinearRegression,
+    LogisticRegression,
+    DecisionTree,
     // Export other data structures and algorithms as well
 };

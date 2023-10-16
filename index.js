@@ -43,6 +43,9 @@ const MatrixChainMultiplication = require('./algorithms/dynamic-programming/matr
 const StringMatching = require('./algorithms/string/stringMatching');
 const LevenshteinDistance = require('./algorithms/string/levenshteinDistance');
 const LongestCommonSubstring = require('./algorithms/string/longestCommonSubstring');
+const ConvexHull = require('./algorithms/geometry/convexHull');
+const ClosestPairOfPoints = require('./algorithms/geometry/closestPairOfPoints');
+const LineIntersection = require('./algorithms/geometry/lineIntersection');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -92,5 +95,8 @@ module.exports = {
     StringMatching,
     LevenshteinDistance,
     LongestCommonSubstring,
+    ConvexHull,
+    ClosestPairOfPoints,
+    LineIntersection,
     // Export other data structures and algorithms as well
 };

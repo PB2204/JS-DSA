@@ -57,6 +57,7 @@ const LogisticRegression = require('./algorithms/ml-statistical/logisticRegressi
 const DecisionTree = require('./algorithms/ml-statistical/decisionTrees');
 const RandomizedQuickSort = require('./algorithms/sorting/randomizedQuickSort');
 const RandomizedPrimalityTesting = require('./algorithms/randomized/randomizedPrimalityTesting');
+const UtilityFunctions = require('./utils/utilityFunctions');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -120,5 +121,6 @@ module.exports = {
     DecisionTree,
     RandomizedQuickSort,
     RandomizedPrimalityTesting,
+    UtilityFunctions,
     // Export other data structures and algorithms as well
 };

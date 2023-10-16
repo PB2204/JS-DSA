@@ -80,11 +80,6 @@ JS-DSA/
 |   |-- randomized/
 |   |   |-- randomizedQuickSort.js
 |   |   |-- randomizedPrimalityTesting.js
-|   |-- cryptography/
-|       |-- rsaEncryption.js
-|       |-- rsaDecryption.js
-|       |-- aesEncryption.js
-|       |-- aesDecryption.js
 |
 |-- utils/
 |   |-- utilityFunctions.js
@@ -175,14 +170,9 @@ JS-DSA/
 |   |   |-- randomized/
 |   |   |   |-- randomizedQuickSort.test.js
 |   |   |   |-- randomizedPrimalityTesting.test.js
-|   |   |-- cryptography/
-|   |       |-- rsaEncryption.test.js
-|   |       |-- rsaDecryption.test.js
-|   |       |-- aesEncryption.test.js
-|   |       |-- aesDecryption.test.js
 |
 |-- docs/
     |-- data-structures.md
     |-- algorithms.md
     |-- usage-examples.md
-    ```
+```

@@ -39,6 +39,7 @@ const Fibonacci = require('./algorithms/dynamic-programming/fibonacci');
 const LongestCommonSubsequence = require('./algorithms/dynamic-programming/longestCommonSubsequence');
 const Knapsack = require('./algorithms/dynamic-programming/knapsack');
 const EditDistance = require('./algorithms/dynamic-programming/editDistance');
+const MatrixChainMultiplication = require('./algorithms/dynamic-programming/matrixChainMultiplication');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -84,5 +85,6 @@ module.exports = {
     LongestCommonSubsequence,
     Knapsack,
     EditDistance,
+    MatrixChainMultiplication,
     // Export other data structures and algorithms as well
 };

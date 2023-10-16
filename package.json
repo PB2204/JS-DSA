@@ -1,7 +1,7 @@
 {
     "name": "adv-dsa",
-    "version": "1.0.5",
-    "description": "JavaScript Data Structures and Algorithms Library",
+    "version": "1.1.5",
+    "description": "JS-DSA is a comprehensive collection of data structures and algorithms implemented in JavaScript. This project is designed to be a helpful resource for developers, students, and anyone interested in learning about data structures and algorithms through practical JavaScript examples.",
     "keywords": [
         "data-structures",
         "algorithms",

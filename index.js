@@ -38,6 +38,7 @@ const TopologicalSort = require('./algorithms/graph-algorithms/topologicalSort')
 const Fibonacci = require('./algorithms/dynamic-programming/fibonacci');
 const LongestCommonSubsequence = require('./algorithms/dynamic-programming/longestCommonSubsequence');
 const Knapsack = require('./algorithms/dynamic-programming/knapsack');
+const EditDistance = require('./algorithms/dynamic-programming/editDistance');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -82,5 +83,6 @@ module.exports = {
     Fibonacci,
     LongestCommonSubsequence,
     Knapsack,
+    EditDistance,
     // Export other data structures and algorithms as well
 };

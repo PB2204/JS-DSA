@@ -46,6 +46,8 @@ const LongestCommonSubstring = require('./algorithms/string/longestCommonSubstri
 const ConvexHull = require('./algorithms/geometry/convexHull');
 const ClosestPairOfPoints = require('./algorithms/geometry/closestPairOfPoints');
 const LineIntersection = require('./algorithms/geometry/lineIntersection');
+const FordFulkerson = require('./algorithms/network-flow/fordFulkerson');
+const MaxFlowMinCutGraph = require('./algorithms/network-flow/maxFlowMinCutTheorem');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -98,5 +100,7 @@ module.exports = {
     ConvexHull,
     ClosestPairOfPoints,
     LineIntersection,
+    FordFulkerson,
+    MaxFlowMinCutGraph,
     // Export other data structures and algorithms as well
 };

@@ -48,6 +48,9 @@ const ClosestPairOfPoints = require('./algorithms/geometry/closestPairOfPoints')
 const LineIntersection = require('./algorithms/geometry/lineIntersection');
 const FordFulkerson = require('./algorithms/network-flow/fordFulkerson');
 const MaxFlowMinCutGraph = require('./algorithms/network-flow/maxFlowMinCutTheorem');
+const GCD = require('./algorithms/numerical/gcd');
+const PrimalityTesting = require('./algorithms/numerical/primalityTesting');
+const FastExponentiation = require('./algorithms/numerical/fastExponentiation');
 // Import other data structures and algorithms as needed
 
 module.exports = {
@@ -102,5 +105,8 @@ module.exports = {
     LineIntersection,
     FordFulkerson,
     MaxFlowMinCutGraph,
+    GCD,
+    PrimalityTesting,
+    FastExponentiation,
     // Export other data structures and algorithms as well
 };

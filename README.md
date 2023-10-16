@@ -40,7 +40,7 @@ JS-DSA provides a wide range of data structures and algorithms. You can utilize 
 
 ```javascript
 // Example of using a Stack from the data structures module
-const { Stack } = require('./data-structures/stacks-and-queues/Stack');
+const Stack = require('adv-dsa').Stack;
 
 const stack = new Stack();
 stack.push(1);

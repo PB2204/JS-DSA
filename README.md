@@ -1,4 +1,4 @@
-# JS-DSA: JavaScript Data Structures and Algorithms
+# JS-DSA :: JavaScript Data Structures and Algorithms
 
 JS-DSA is a comprehensive collection of data structures and algorithms implemented in JavaScript. This project is designed to be a helpful resource for developers, students, and anyone interested in learning about data structures and algorithms through practical JavaScript examples.
 
@@ -100,5 +100,7 @@ Feel free to contribute, provide feedback, and help us improve this project for 
 ## Developer Details
 
 - Name :: [Pabitra Banerjee](https://pabitrabanerjee.me)
-- Email ::[Pabitra Banerjee](mailto:rockstarpabitra2204@gmail.com)
-- GitHub ::[Pabitra Banerjee](https://github.com/PB2204)
+- Email :: [Pabitra Banerjee](mailto:rockstarpabitra2204@gmail.com)
+- GitHub :: [Pabitra Banerjee](https://github.com/PB2204)
+
+# Happy Coding !!!
